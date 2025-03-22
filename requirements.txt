@@ -1,0 +1,9 @@
+python-speech-features==0.6
+scipy==1.5.4
+opencv-python==4.9.0.80 # upgrade 
+sentencepiece==0.1.96
+editdistance==0.6.0
+h5py==3.10.0
+numpy==1.23.0
+albumentations # change
+torchvision # change

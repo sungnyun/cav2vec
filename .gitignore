@@ -1,0 +1,15 @@
+*.pyc
+*.dat
+*.log
+*.yaml
+cav2vec/*outputs/
+cav2vec/results*
+cav2vec/*/checkpoints/
+cav2vec/*/tblog/
+dataset/
+occlusion_patch/
+images/
+
+*.mp4
+*.pkl
+*.wav

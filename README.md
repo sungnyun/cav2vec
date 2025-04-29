@@ -1,6 +1,7 @@
 # CAV2vec (ICLR 2025)
 
-<a href='https://openreview.net/pdf?id=WEQL5ksDnB'><img src='https://img.shields.io/badge/Paper-OpenReview-red'></a>  <a href=#bibtex><img src='https://img.shields.io/badge/Paper-BibTex-Green'></a> 
+<a href='https://arxiv.org/abs/2504.18539'><img src='https://img.shields.io/badge/arXiv-2504.18539-Green'></a>
+<a href='https://openreview.net/forum?id=WEQL5ksDnB'><img src='https://img.shields.io/badge/Paper-OpenReview-red'></a>  <a href=#bibtex><img src='https://img.shields.io/badge/Paper-BibTex-yellow'></a> 
 
 <p align="center">
 <img width="1200" alt="model" src="./assets/cav2vec.png">
